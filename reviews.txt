@@ -1,0 +1,15 @@
+1.Travel form this question don’t make sense as we’re asking how many nights but then showing calendar. How was it done on comparemarket
+https://prnt.sc/LXHhtxHR25h6 (done)
+
+2.Do not contact should not leave other options still highlighted, it should be exclusive (done)
+https://prnt.sc/wbwjToHT3wqk
+
+3.When clicking submit nothing is sending
+https://prnt.sc/RxlqXfkp4cHq (done)
+
+
+4.Also I missed out filling a field and it didn’t highlight or notify me that I missed this like the car form(done)
+
+5. change all compare market to quotemeeasy
+
+-------------------------
